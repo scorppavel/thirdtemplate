@@ -61,6 +61,7 @@ button {
     margin: 0 auto;
     height: 245px;
     width: 945px;
+    margin-bottom: 50px;
 }
 
 .img-first  {
@@ -101,4 +102,62 @@ button {
     font-family: 'Poppins', sans-serif;
     border-bottom: 3px solid #444243;
     margin-bottom: 10px;
+}
+
+.get {
+    display: flex;
+    margin: 0 auto;
+    width: 527px;
+    color: #1e1f22;
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    margin-bottom: 70px;
+}
+
+.get span {
+    font-weight: bold;
+}
+
+.get span.color-text {
+    font-family: 'Lobster', cursive;
+    color: #f12078;
+    font-size: 35px;
+}
+
+.get-text .btn  {
+    box-shadow: none;
+    margin: 15px;
+    width: 168px;
+    height: 55px;
+}
+
+.get-text .btn a {
+    font-size: 22px;
+}
+
+.articles {
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    width: 945px;
+    margin: 0 auto;
+}
+
+.article-headline {
+    font-size: 25px;
+    margin-top: 32px;
+    margin-bottom: 15px;
+}
+
+.articles span {
+    font-weight: bold;
+}
+
+.articles-text {
+    font-size: 12px;
+    margin-right: 75px;
+}
+
+.phone-screens img{
+    padding-top: 25px;
+    height: 600px;
 }
