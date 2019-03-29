@@ -161,3 +161,30 @@ button {
     padding-top: 25px;
     height: 600px;
 }
+
+footer {
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    width: 945px;
+    margin-top: 50px;
+    border-top: 2px solid #000;
+}
+
+.text-footer {
+    display: flex;
+    margin-top: 23px;
+    font-size: 12px;
+}
+
+.copyright img {
+    margin-right: 3px;
+}
+
+.text-footer span {
+    color: #f12078;
+}
+
+.text-end {
+  padding-left: 546px;
+}
+
